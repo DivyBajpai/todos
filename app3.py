@@ -1,5 +1,4 @@
-pip install streamlit
-streamlit run app3.py
+
 
 
 
